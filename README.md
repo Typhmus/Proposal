@@ -16,7 +16,7 @@
      put into an alternative "dropped players wire" (DPW - example) and then after the FA period for the week is over, the DPW is available. 
      The A-Teams proceed as if it was FA (lowest standings - to highest), and choose whether or not to pick up a dropped player.
      (The team that dropped a player will not be able to pick them back up in the DPW). In case the team has a full 
-     roster already when picking up a dropped player, then they must drop someone on their roster, that person will then be put on the B-Team DPW.
+     roster already when picking up a dropped player, they must drop someone on their roster, that person will then be put on the B-Team DPW.
      After the third week (1st FA period), whenever a player is dropped, they can only be picked up from the DPW after the week's FA period is over.
 
 **B**.   If any of the players in the DPW don't get picked up, then they get moved down to the B-Team DPW. 
