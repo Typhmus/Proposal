@@ -61,7 +61,7 @@ However, this problem also happens on the other end. There is a high possibility
 **How these changes solve this problem:** 
 In this new system, the Free Agency period will start after week 3 or week 4. This means that teams won't have the incentive to throw early on, and instead winning your early matches will have way more importance. This also means there will be an almost certified chance that the actual bad teams will be at the bottom of the standings (the teams that need the FAs more than any other team). 
 
-**2. Teams will be way more balanced. **
+**2. Teams will be way more balanced.**
 
 In the current system, FA is a blind bid, meaning that GMs will have to bid their WPs (the same WPs which causes the incentives to lose) on free agents and hope that their bid is the highest. They also have to choose a first priority pick and a second priority pick. That means that if their first pick wasn't the highest bid, then they still have a chance to get their second priority pick if they had the highest bid. 
 
