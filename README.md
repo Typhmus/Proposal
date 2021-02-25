@@ -58,7 +58,8 @@ With the current way it works, any B-Team that is good and properly drafted will
 
 However, this problem also happens on the other end. There is a high possibility that any good and properly drafted B-Team can throw their first few matchdays and then pick up A-Team level Free Agents and enhance their already good team, while other teams that are potentially not already good based on the draft will be at a disadvantage because they couldn't pick up the best players, when they have way worse rosters.
 
-**- How these changes solve this problem:** 
+**- How these changes solve this problem:**
+ 
 In this new system, the Free Agency period will start after week 3 or week 4. This means that teams won't have the incentive to throw early on, and instead winning your early matches will have way more importance. This also means there will be an almost certified chance that the actual bad teams will be at the bottom of the standings (the teams that need the FAs more than any other team). 
 
 **2. Free Agency will be way more balanced.**
