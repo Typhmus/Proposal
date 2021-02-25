@@ -25,9 +25,9 @@
 
 **C.**   If any of the players were not picked during the B-Team DPW, then they will be available for the next A-Team DPW, B-Team DPW and the system repeats until the dropped player either asks to get himself removed from the DPW, or until the last week of the regular season. If the player isn't chosen by the last week's DPW, then he will be freely available to merc for any team that asks for it during the playoff matches; otherwise, he/she cannot play in the league.
      
-    C.1 The team that asks for a DPW merc first, gets to use them first. After the team's match is over, the player will be sent back to the DPW merc pool and can still merc            for any other playoff matches.
+  > C.1 The team that asks for a DPW merc first, gets to use them first. After the team's match is over, the player will be sent back to the DPW merc pool and can still merc            for any other playoff matches.
 
-    C.2 If a team asks a merc to show up, and the merc agrees, but the merc does not show up, it can be marked as ghosting a team. If the merc didn't respond to the GM, or  didn't say that he can show up during the official matchday, then it won't be marked towards ghosting. 
+  > C.2 If a team asks a merc to show up, and the merc agrees, but the merc does not show up, it can be marked as ghosting a team. If the merc didn't respond to the GM, or  didn't say that he can show up during the official matchday, then it won't be marked towards ghosting. 
 
 **D.**   If an A-Team decides to call up a B-Teamer, and has a full roster, then they will need to drop one of their players. That player will also be put into the A-Team DPW. If they don't get picked up to another A-Team, then they go to the B-Team DPW. -- Proceeds to Step C.
 
