@@ -49,4 +49,33 @@ This is only a repersentation of what it will be like (Based on the current seas
     - ROund 10: +1
 
 
+**WHAT DOES THIS SOLVE?**
+===================================================================================================================================================================================
 
+1. The incentive for teams (especially B-Team) to lose on purpose in their first few matchdays to recieve better Free Agents is completely removed.
+
+With the current way it works, any B-Team that is good and properly drafted will be at a disadvantage if they win their games, because any team that loses all of their games will be able to pick up those A-Team Free Agents. In a normal B-League, there is a very big difference between B-Teamers and A-Teamers. Having a great full B-Team lineup will not be up to par with a B-Team lineup that has a few A-Team level players. 
+
+However, this problem also happens on the other end. There is a high possibility that any good and properly drafted B-Team can throw their first few matchdays and then pick up A-Team level Free Agents and enhance their already good team, while other teams that are potentially not already good based on the draft will be at a disadvantage because they couldn't pick up the best players, when they have way worse rosters.
+
+**How these changes solve this problem:** 
+In this new system, the Free Agency period will start after week 3 or week 4. This means that teams won't have the incentive to throw early on, and instead winning your early matches will have way more importance. This also means there will be an almost certified chance that the actual bad teams will be at the bottom of the standings (the teams that need the FAs more than any other team). 
+
+2. Teams will be way more balanced. 
+
+In the current system, FA is a blind bid, meaning that GMs will have to bid their WPs (the same WPs which causes the incentives to lose) on free agents and hope that their bid is the highest. They also have to choose a first priority pick and a second priority pick. That means that if their first pick wasn't the highest bid, then they still have a chance to get their second priority pick if they had the highest bid. 
+
+While this means that bad teams can use their wavier points to grab players, it also invites the idea of unfair pickups. You could have one team pick up two of the best Free Agents because the other teams didn't want to risk the chance of not getting a free agent because they don't think they would have enough WP to bid on the best ones. 
+
+**How these changes solve this problem:**
+
+Because free agency is a snake draft, it means that teams know exactly who is available to be picked up, and exactly when they can pick. This also means that teams won't be able to choose more than one agent on their turn, so in the case of B-Team: more A-Team level free agents = more B-teams that can pick them up, and that means less of a chance one team will get an unfair amount of them (which you can naturally do in blind bids). 
+For A-Team, there is already way less of a chance that any teams will get unfair pickups, so this doesn't apply as much to it as it does to B-Team. However, it is still better than blind bidding because there is no chance of unfair pickups, while with blind bids, there is still a chance.
+
+**DPW:**
+
+The next part to make this even better is the DPW system. This means that any dropped players from A-Team still have a chance to be on A-Team even though they were dropped. This is great for teams that end up dropping players because there was someone that was "Slightly" better than their current player, either because of a callup from B-Team, or because of a Free Agent. That "slightly worse" player can still be put on another A-Team that needs them. Because this system would be in form of a snake draft, just like free agency, it also means that in case there aren't a lot of free agents available, teams can still pick up dropped players. 
+
+For B-Team, it provides the opportunity for ALL TEAMS to get a player that they need, either from the A-Team drops, B-Team drops, or still from the FA period.
+
+Overall, this means that all teams can be properly balanced in terms of players, while in the current system, teams could become easily unfair. 
