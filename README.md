@@ -80,6 +80,11 @@ For B-Team, it provides the opportunity for ALL TEAMS to get a player that they 
 
 Overall, this means that all teams can be properly balanced in terms of players, while in the current system, teams could become easily unfair. 
 
+**Teams should always be able to field 6 players:**
+
+In recent cases, teams might have to play with less than 6 players because of many different reasons. (Player/s couldn't show up, Player/s ghosted, Player/s got banned, ect). 
+However, will this system in place, teams should never have to worry about not having enough active people on their roster. A-Team drops, B-Team drops, and Free Agents are all available for teams to pickup in case they need more players on their roster, or just more ACTIVE players on their roster. In the very very very very very very very rare case that A-Team drops, B-Team drops, AND Free Agents aren't available to a team, then they would still have to play with less players if they can't field 6. However, this system still has a way higher % chance that players will be available for all teams instead of not having this system in place.
+
 **=============================================================================================================================================================================**
 
 This is subject to change.
