@@ -32,3 +32,22 @@
 **D.**   If an A-Team decides to call up a B-Teamer, and has a full roster, then they will need to drop one of their players. That player will also be put into the A-Team DPW. If they don't get picked up to another A-Team, then they go to the B-Team DPW. -- Proceeds to Step C.
 
 **E.**   Free Agency ends at the second-to-last week of the regular season. The DPW will continue until the last week.
+
+**G.**   If a B-Team player is banned from playing for their team or banned in anyway that prevents them from playing, then their team will recieve a movement change based on the round that the banned player was drafted. The movement change will only give them higher priority in the FA Waiver Wire.
+
+This is only a repersentation of what it will be like (Based on the current season). 
+
+    - Round 1:  +5 
+    - Round 2:  +4
+    - Round 3:  +3
+    - Round 4:  +3
+    - Round 5:  +3
+    - Round 6:  +2
+    - Round 7:  +2
+    - Round 8:  +2
+    - Round 9:  +1
+    - ROund 10: +1
+
+
+**WHAT DOES THIS SOLVE?**
+===================================================================================================================================================================================
