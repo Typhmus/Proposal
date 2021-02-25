@@ -79,3 +79,7 @@ The next part to make this even better is the DPW system. This means that any dr
 For B-Team, it provides the opportunity for ALL TEAMS to get a player that they need, either from the A-Team drops, B-Team drops, or still from the FA period.
 
 Overall, this means that all teams can be properly balanced in terms of players, while in the current system, teams could become easily unfair. 
+
+**=============================================================================================================================================================================**
+
+This is subject to change.
