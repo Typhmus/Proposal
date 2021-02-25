@@ -70,7 +70,7 @@ While this means that bad teams can use their wavier points to grab players, it 
 **How these changes solve this problem:**
 
 Because free agency is a snake draft, it means that teams know exactly who is available to be picked up, and exactly when they can pick. This also means that teams won't be able to choose more than one agent on their turn, so in the case of B-Team: more A-Team level free agents = more B-teams that can pick them up, and that means less of a chance one team will get an unfair amount of them (which you can naturally do in blind bids). 
-For A-Team, there is already way less of a chance that any teams will get unfair pickups, so this doesn't apply as much to it as it does to B-Team. However, it is still better than blind bidding because there is no chance of unfair pickups, while with blind bids, there is still a chance.
+For A-Team, there is already way less of a chance that any teams will get unfair pickups, so this doesn't apply as much to it as it does to B-Team. However, it is still better than blind bidding because there is almost no chance of unfair pickups, while with blind bids, there is still a high chance.
 
 **DPW:**
 
