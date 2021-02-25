@@ -74,7 +74,7 @@ For A-Team, there is already way less of a chance that any teams will get unfair
 
 **DPW:**
 
-The next part to make this even better is the DPW system. This means that any dropped players from A-Team still have a chance to be on A-Team even though they were dropped. This is great for players that end up getting dropped because there was someone that was "Slightly" better than them, either because of a callup from B-Team, or because of a Free Agent. That "slightly worse" player can still be put on another A-Team that needs them. Because this system would be in form of a snake draft, just like free agency, it also means that in case there aren't a lot of free agents available, teams can still pick up dropped players. 
+The next part to make this even better is the DPW system. This means that any dropped players from A-Team still have a chance to be on A-Team even though they were dropped. This is great for players that end up getting dropped because there was someone that was "Slightly" better than them, either because of a callup from B-Team, or because of a Free Agent. That "slightly worse" player can still be put on another A-Team that needs them. Because this system would be in form of a snake draft, just like free agency, it also means that in case there aren't a lot of free agents available, teams can still pick up dropped players and it'll be balanced across most of the teams.
 
 For B-Team, it provides the opportunity for ALL TEAMS to get a player that they need, either from the A-Team drops, B-Team drops, or still from the FA period.
 
