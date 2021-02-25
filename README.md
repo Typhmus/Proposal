@@ -72,7 +72,7 @@ While this means that bad teams can use their wavier points to grab players, it 
 Because free agency is a snake draft, it means that teams know exactly who is available to be picked up, and exactly when they can pick. This also means that teams won't be able to choose more than one agent on their turn, so in the case of B-Team: more A-Team level free agents = more B-teams that can pick them up, and that means less of a chance one team will get an unfair amount of them (which you can naturally do in blind bids). 
 For A-Team, there is already way less of a chance that any teams will get unfair pickups, so this doesn't apply as much to it as it does to B-Team. However, it is still better than blind bidding because there is almost no chance of unfair pickups, while with blind bids, there is still a high chance.
 
-**DPW will make teams even more balanced:**
+**3. DPW will make teams even more balanced:**
 
 The next part to make this even better is the DPW system. This means that any dropped players from A-Team still have a chance to be on A-Team even though they were dropped. This is great for players that end up getting dropped because there was someone that was "Slightly" better than them, either because of a callup from B-Team, or because of a Free Agent. That "slightly worse" player can still be put on another A-Team that needs them. Because this system would be in form of a snake draft, just like free agency, it also means that in case there aren't a lot of free agents available, teams can still pick up dropped players and it'll be balanced across most of the teams.
 
@@ -80,7 +80,7 @@ For B-Team, it provides the opportunity for ALL TEAMS to get a player that they 
 
 Overall, this means that all teams can be properly balanced in terms of players, while in the current system, teams could become easily unfair. 
 
-**Teams should always be able to field 6 players:**
+**4. Teams should always be able to field 6 players:**
 
 In recent cases, teams might have to play with less than 6 players because of many different reasons. (Player/s couldn't show up, Player/s ghosted, Player/s got banned, ect). 
 However, will this system in place, teams should never have to worry about not having enough active people on their roster. A-Team drops, B-Team drops, and Free Agents are all available for teams to pickup in case they need more players on their roster, or just more ACTIVE players on their roster. In the very very very very very very very rare case that A-Team drops, B-Team drops, AND Free Agents aren't available to a team, then they would still have to play with less players if they can't field 6. However, this system still has a way higher % chance that players will be available for all teams instead of not having this system in place.
