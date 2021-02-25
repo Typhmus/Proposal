@@ -22,6 +22,6 @@
 **B**.   If any of the players in the DPW don't get picked up, then they get moved down to the B-Team DPW. 
      The B-Team DPW will work the same as the A-Team DPW, and will always happen after the B-Team FA waiver wire.
 
-**C.**   If any of the players were not picked during the B-Team DPW, then they will be available for the next A-Team DPW, and the system repeats until the dropped player either asks to get himself removed from the DPW, or until the last week of the regular season. If the player isn't chosen by the last week's DPW, then he will be freely available to merc for any team that asks for it during the playoffs; otherwise, he/she cannot play in the league. 
+**C.**   If any of the players were not picked during the B-Team DPW, then they will be available for the next A-Team DPW, B-Team DPW and the system repeats until the dropped player either asks to get himself removed from the DPW, or until the last week of the regular season. If the player isn't chosen by the last week's DPW, then he will be freely available to merc for any team that asks for it during the playoffs; otherwise, he/she cannot play in the league. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
