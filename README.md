@@ -1,7 +1,7 @@
 **GENERAL IDEA**
 ===================================================================================================================================================================================
 
-**1**. Free Agency (FA) opens after week 3 or week 4, depending on how many players are available. (Snake Draft Style)
+**1**. Free Agency (FA) opens after week 3 or week 4, depending on how many players are available and/or holidays and/or how many weeks in the season. (Snake Draft Style)
 
 **2.** A-Team gets the first choice on the FA waiver wire, starting from lowest standing teams and up to the highest. They can only pick up one FA and then it's the next team's turn to pick. If any of the teams pick up a FA but their roster is full, then they have to drop one of their players. That player is put into an alternative "Dropped Players Wire" - more about that in the last section.
 
