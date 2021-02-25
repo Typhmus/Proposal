@@ -48,6 +48,8 @@ This is only a repersentation of what it will be like (Based on the current seas
 
 **D.**   If an A-Team decides to call up a B-Teamer, and has a full roster, then they will need to drop one of their players. That player will also be put into the A-Team DPW. If they don't get picked up to another A-Team, then they go to the B-Team DPW. -- Proceeds to Step C.
 
+**E.** Teams can call up B-Teamers and drop their own players at any time, but any dropped players will only be available in the DPW after the next FA period is over.
+
 
 
 **WHAT DOES THIS SOLVE?**
