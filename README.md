@@ -1,4 +1,5 @@
 **GENERAL IDEA**
+===================================================================================================================================================================================
 
 **1**. Free Agency (FA) opens after week 3. (Snake Draft Style)
 
@@ -6,7 +7,10 @@
 
 **3.** Any free agents that weren't picked up in the A-Team FA waiver wire get moved down to the B-Team FA waiver wire. Proceeding the same way the A-Team FA waiver wire does; picks go from lowest to highest;
 
+
 **DROPPED PLAYERS WIRE**
+===================================================================================================================================================================================
+
 
 **A**.   If any of the teams pick up a FA but their roster is full, then they have to drop one of their players. That player is then 
      put into an alternative "dropped players wire" (DPW - example) and then after the FA period for the week is over, the DPW is available. 
@@ -20,3 +24,5 @@
 
 **C.**   If any of the players were not picked during the B-Team DPW, then they will be automatically put onto teams in a balanced manner. 
      The teams that have the most roster space will be higher priority, on top of that, the teams with the higher standings will have even higher priority.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
